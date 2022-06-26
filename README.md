@@ -1,3 +1,3 @@
 # AdvSciPro
 
-git excersice in advanced scientific programming
+Exercises in advanced scientific programming
